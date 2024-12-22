@@ -5,6 +5,7 @@ The data analysis on this project underlines insights as to how the company can 
 **Database Tool:**
 
 **MySQL**: For database creation and querying.
+
 **SQL**: For data manipulation and analysis.
 
 **How This Project Demonstrates Growth**
@@ -12,5 +13,7 @@ The data analysis on this project underlines insights as to how the company can 
 With these SQL queries in the project, important questions about growth will be answered using data coming from the operations of this music company. Here's how data analysis can support the growth of the company:
 
 **Optimizing Sales**: This would help identify top albums and tracks in sales to focus marketing on successful products.
+
 **Customer Retention**: The company, by analyzing customer behavior, is able to provide personalized recommendations and enhance customer engagement.
+
 **Artist Growth**: The tracking of artist performance will help the company to invest in the most promising talent and maximize revenue.
